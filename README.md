@@ -47,8 +47,8 @@
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JsMirKhan&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)  
-![Streak](https://streak-stats.demolab.com?user=YourGitHubUsername&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JsMirKhan&layout=compact&theme=tokyonight)  
+![Streak](https://streak-stats.demolab.com?user=JsMirKhan&theme=tokyonight)  
 
 ---
 
