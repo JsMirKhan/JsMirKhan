@@ -58,6 +58,9 @@ I am eager to contribute my expertise to dynamic teams and projects, while conti
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JsMirKhan&layout=compact&theme=tokyonight)  
 ![Streak](https://streak-stats.demolab.com?user=JsMirKhan&theme=tokyonight)  
 
+![Profile Views](https://komarev.com/ghpvc/?username=JsMirKhan=Profile%20views&color=0e75b6&style=flat)
+
+
 ---
 
 ## 🚀 Fun Stuff
