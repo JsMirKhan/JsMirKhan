@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4E9F3D&width=600&lines=Hi%2C+I'm+JsMirKhan+👋;Full-Stack+Web+Developer;Mobile+App+Developer+(Flutter+%26+React+Native);Passionate+about+scalable+solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4E9F3D&width=600&lines=Hi%2C+I'm+Mir+Khan+👋;Full-Stack+Web+Developer;Mobile+App+Developer+(Flutter+%26+React+Native);)](https://git.io/typing-svg)
 
 ---
 
