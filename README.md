@@ -10,9 +10,14 @@
 ---
 
 ## ✨ About Me
-💡 I’m a **self-taught developer** passionate about building **user-centric apps** and solving real-world problems with technology.  
-⚡ With **hands-on experience in Full-Stack Web Development (MERN)** and **Mobile App Development (Flutter & React Native)**, I specialize in creating **scalable, modern, and responsive applications**.  
-🚀 I thrive on **continuous learning**, exploring new technologies, and working on projects that challenge me to grow.  
+I am a **Full-Stack Web and Mobile App Developer** specializing in **MERN stack** and **cross-platform mobile development** using **Flutter** and **React Native**.  
+With proven hands-on experience, I design and develop **scalable, responsive, and user-focused applications** that deliver real business value.  
+
+🔹 Skilled in front-end and back-end development, API integration, and database management.  
+🔹 Experienced in delivering complete solutions — from concept to deployment.  
+🔹 Passionate about building efficient, maintainable, and innovative digital products.  
+
+I am eager to contribute my expertise to dynamic teams and projects, while continuously advancing my knowledge of modern technologies.  
 
 
 ---
