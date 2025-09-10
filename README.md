@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mir Khan
 
-🚀 **Mobile App Developer | Full-Stack Web Developer | Tech Enthusiast**
+**💻 Full-Stack Developer | Mobile App Specialist (Flutter & React Native)**
 
 📍 Location: Quetta, Pakistan
 📧 Email: mirkhanmagsi1234@gmail.com
