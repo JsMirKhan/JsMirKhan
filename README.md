@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Mir Khan
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4E9F3D&width=600&lines=Hi%2C+I'm+Mir+Khan+👋;Full-Stack+Web+Developer;Mobile+App+Developer+(Flutter+%26+React+Native);Passionate+about+scalable+solutions)](https://git.io/typing-svg)
+
+
 **💻 Full-Stack Developer | Mobile App Specialist (Flutter & React Native)**
 
 📍 Location: Quetta, Pakistan
